@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+#head{
+    background-color: #0f1111;
+    height: 60px;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
+body{
+    background-color: #005f60;
+}

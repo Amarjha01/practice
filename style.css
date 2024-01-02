@@ -1,0 +1,30 @@
+h1 {
+    color : rgb(159, 6, 159);
+}
+#One{
+    color: rgba(162,42,42);
+}
+.myClass{
+    color:rgb(174, 153, 174);
+}
+
+p{
+    color: brown;
+}
+button{
+    color: rgb(189, 38, 136); 
+    background-color: cadetblue;
+}
+body{
+    background-color: #000000;
+}
+
+h2 {
+     font-style:oblique;
+}
+#button{
+    background-color: black;
+}
+#img{
+    
+}
